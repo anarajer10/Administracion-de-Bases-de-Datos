@@ -5,7 +5,7 @@ de Tercero de la rama SI. Dichas prácticas son de carácter teórico, siendo la
 indivuales.
 
 ## Prácticas
--**P1** Primera práctica, sobre la organización de ficheros.
--**P2** Siguiente práctica, acerca de la optimización de consultas.
--**P3** Tercera y última práctica indivisual, acerca de catálogos en implementaciones de SGDBR
+-**P1** Primera práctica, sobre la organización de ficheros. <br>
+-**P2** Siguiente práctica, acerca de la optimización de consultas. <br>
+-**P3** Tercera y última práctica indivisual, acerca de catálogos en implementaciones de SGDBR <br>
         (PostgreSQL y Oracle).
