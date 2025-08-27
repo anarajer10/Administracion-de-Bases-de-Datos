@@ -2,7 +2,7 @@
 
 Este repositorio cuenta con las prácticas a realizar de la asignatura del 2.º cuatrimestre
 de Tercero de la rama SI. Dichas prácticas son de carácter teórico, siendo las 3 primeras
-indivuales.
+indivuales y la cuarta realizada grupalmente.
 
 ## Prácticas
 -**P1** Primera práctica, sobre la organización de ficheros. <br>
